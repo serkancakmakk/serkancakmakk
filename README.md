@@ -8,4 +8,4 @@
 serkancakmakk/serkancakmakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+[![asciicast](https://asciinema.org/a/447644)](https://asciinema.org/a/113463)
