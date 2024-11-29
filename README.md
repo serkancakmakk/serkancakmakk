@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan Çakmak</h1>
-<h3 align="center">I am a Computer Programming graduate and an experienced Python/Django developer.</h3>
+<h3 align="start">I am a Computer Programming graduate and an experienced Python/Django developer.</h3>
 <h4 align="start">🌱 I’m currently learning data analysis..</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serkancakmakk&label=Profile%20views&color=0e75b6&style=flat" alt="serkancakmakk" /> </p>
