@@ -91,14 +91,6 @@ Designing and developing scalable web applications with .NET, Angular and Python
 
 ---
 
-## LeetCode Statistics
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/seko7?theme=dark&font=Karma&ext=contest" />
-</p>
-
----
-
 ## Coding Profiles
 
 * LinkedIn: https://linkedin.com/in/serkanncakmak
