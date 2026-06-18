@@ -104,5 +104,4 @@ Designing and developing scalable web applications with .NET, Angular and Python
 ## Contribution Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-light.svg" alt="Contribution Snake" />
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /></p>
