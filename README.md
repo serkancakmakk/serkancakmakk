@@ -61,6 +61,7 @@ Designing and developing scalable web applications with .NET, Angular and Python
 ### Database
 
 <p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql" /> </p>
+
 ### DevOps & Tools
 
 <p>
