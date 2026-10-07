@@ -71,7 +71,7 @@
 <summary><b>▶ ACTIVITY REPLAY (aç / kapat)</b></summary>
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output/snake.svg" alt="Contribution snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output/knight.svg" alt="Pixel knight slashing through contributions" width="100%"/>
 </div>
 </details>
 
