@@ -27,7 +27,7 @@
 <div align="center">
   <img src="assets/t_versus.svg" alt="VERSUS MODE" width="100%"/>
   <br/>
-  <img src="assets/duel.svg" alt="Two pixel knights in an AK-47 shootout" width="660"/>
+  <img src="assets/duel.svg?v=3" alt="Two pixel knights in an AK-47 shootout" width="660"/>
 </div>
 
 <br/>

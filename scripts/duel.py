@@ -206,7 +206,7 @@ def build_duel():
 
     def bullets(prefix, shot_times, mx, my, target_x, direction):
         out = []
-        dx = (target_x - mx) * direction  # bullets live in a mirrored group for P2
+        dx = target_x - mx
         for i, s in enumerate(shot_times):
             n = f"{prefix}{i}"
             css.append(keyframes(f"bu{n}", [
@@ -218,10 +218,11 @@ def build_duel():
                 (T, f"opacity:0;transform:translateX({dx}px)"),
             ]))
             out.append(
-                f'<g transform="translate({mx},{my}) scale({direction},1)"><g class="bu{n}" opacity="0">'
-                f'<rect x="-8" y="-.5" width="8" height="1" fill="#ff8a00" opacity=".55"/>'
-                f'<rect x="0" y="-1" width="3" height="2" fill="#ffd23f"/>'
-                f'<rect x="3" y="-.5" width="1" height="1" fill="#fff"/></g></g>'
+                # drawn already facing its direction, no mirrored group, so every renderer agrees
+                f'<g transform="translate({mx},{my})"><g class="bu{n}" opacity="0">'
+                f'<rect x="{-8 if direction > 0 else 0}" y="-.5" width="8" height="1" fill="#ff8a00" opacity=".55"/>'
+                f'<rect x="{0 if direction > 0 else -3}" y="-1" width="3" height="2" fill="#ffd23f"/>'
+                f'<rect x="{3 if direction > 0 else -4}" y="-.5" width="1" height="1" fill="#fff"/></g></g>'
             )
             # impact spark
             h = s + TRAVEL
