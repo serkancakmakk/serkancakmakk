@@ -1,237 +1,99 @@
-# 👋 Hi, I'm **Serkan Çakmak**
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%26+Full-Stack+Developer;.NET+%7C+Angular+%7C+Python;Building+Scalable+Web+Applications" />
-</p>
+<img src="assets/banner.svg" alt="Serkan Cakmak - Software Developer" width="100%"/>
 
-<p align="center">
-  <strong>Software Developer • Backend & Full-Stack Development • .NET • Angular • Python</strong>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/serkanncakmak">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/20825947/serkan">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/serkanakmak">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/sekyouone">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/seko7">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/serkanncakmak"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0221"/></a>
+<a href="https://stackoverflow.com/users/20825947/serkan"><img src="https://img.shields.io/badge/STACK_OVERFLOW-F58025?style=flat-square&logo=stackoverflow&logoColor=white&labelColor=0d0221"/></a>
+<a href="https://kaggle.com/serkanakmak"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=0d0221"/></a>
+<a href="https://www.hackerrank.com/sekyouone"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0d0221"/></a>
+<a href="https://leetcode.com/seko7"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d0221"/></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=serkancakmakk&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=serkancakmakk&label=CREDITS%20INSERTED&color=ff00cc&style=flat-square&labelColor=0d0221" alt="views"/>
 
----
+</div>
 
-## 🚀 About Me
+<br/>
+
+<div align="center">
+  <img src="assets/t_player.svg" alt="PLAYER SELECT" width="100%"/>
+  <br/>
+  <img src="assets/player.svg" alt="Player card" width="660"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/t_skills.svg" alt="SKILL LEVELS" width="100%"/>
+  <br/>
+  <img src="assets/skills.svg" alt="Skill levels" width="600"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/t_inventory.svg" alt="INVENTORY" width="100%"/>
+  <br/>
+  <img src="assets/cartridges.svg" alt="Tech stack cartridges: .NET, C#, Python, Django, Angular, TypeScript, JavaScript, HTML, CSS, PostgreSQL, MySQL, SQL Server, Docker, Git, GitHub, Linux, Nginx, VS Code" width="744"/>
+  <br/>
+  <sub>🟪 Backend &nbsp;·&nbsp; 🟥 Frontend &nbsp;·&nbsp; 🟦 Database &nbsp;·&nbsp; 🟩 DevOps &amp; Tools</sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/t_quests.svg" alt="ACTIVE QUESTS" width="100%"/>
+</div>
 
 ```text
-💻 Software Developer
-⚙️ Backend & Full-Stack Development
-🌐 .NET + Angular
-🐍 Python + Django
-🗄️ Relational Databases
-🏗️ Clean Architecture & Scalable Systems
-⚡ Performance & Optimization
+ [x] Build enterprise applications with .NET & Angular
+ [x] Craft RESTful APIs with Python & Django
+ [x] Master relational databases
+ [~] Dive deeper into software architecture      (IN PROGRESS)
+ [~] Optimize everything, always                 (IN PROGRESS)
+ [ ] Unlock: Open Source Contributor badge       (LOCKED)
+ [ ] Defeat the final boss: Legacy Code          (LOCKED)
 ```
 
-I am a **Software Developer** focused on building modern, scalable and maintainable web applications.
-
-My main area of expertise is **.NET backend development combined with Angular**, while I also work with **Python & Django** for web applications and RESTful APIs.
-
-I enjoy designing software architectures, improving application performance and turning complex business requirements into clean and maintainable solutions.
-
----
-
-## 🧰 Tech Stack
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,django" />
-</p>
-
-`ASP.NET Core` • `Web API` • `Entity Framework Core` • `Dapper` • `REST API`
-
----
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
-</p>
-
-`Angular` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3`
-
----
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,sqlite" />
-</p>
-
-`SQL Server` • `PostgreSQL` • `MySQL` • `SQLite`
-
----
-
-### 🛠️ DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vscode,visualstudio" />
-</p>
-
-`Docker` • `Git` • `GitHub` • `Linux` • `Nginx` • `VS Code` • `Visual Studio`
-
----
-
-## 🏗️ What I Work With
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Backend Development
-
-* RESTful API development
-* ASP.NET Core
-* Entity Framework Core
-* Dapper
-* Authentication & Authorization
-* Business logic & domain design
-* Performance optimization
-
-</td>
-
-<td width="50%">
-
-### 🔹 Frontend Development
-
-* Angular
-* TypeScript
-* Reactive programming
-* API integrations
-* Component-based architecture
-* Responsive interfaces
-* State & data management
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🔹 Software Architecture
-
-* Clean Architecture
-* Layered Architecture
-* SOLID principles
-* Dependency Injection
-* Repository patterns
-* Scalable application design
-
-</td>
-
-<td>
-
-### 🔹 Database
-
-* SQL Server
-* PostgreSQL
-* MySQL
-* SQLite
-* Query optimization
-* Entity Framework Core
-* Dapper
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serkancakmakk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkancakmakk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serkancakmakk&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serkancakmakk&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/seko7">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/sekyouone">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://stackoverflow.com/users/20825947/serkan">
-<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
-
-<a href="https://kaggle.com/serkanakmak">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/serkanncakmak">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/serkancakmakk">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>💡 "Clean code. Scalable architecture. Continuous improvement."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=120&section=footer"/>
-</p>
+<br/>
+
+<div align="center">
+  <img src="assets/t_scores.svg" alt="HIGH SCORES" width="100%"/>
+  <br/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=serkancakmakk&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkancakmakk&layout=compact&theme=synthwave&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serkancakmakk&theme=synthwave&hide_border=true" />
+</div>
+
+<details>
+<summary><b>▶ ACTIVITY REPLAY (aç / kapat)</b></summary>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serkancakmakk&theme=synthwave&hide_border=true&bg_color=0d1117&color=ff00cc&line=7a00ff&point=00e5ff" />
+</div>
+</details>
+
+<br/>
+
+<div align="center">
+  <img src="assets/t_arcades.svg" alt="OTHER ARCADES" width="100%"/>
+
+| 🎮 ARCADE | 🪪 PLAYER TAG | 🔗 |
+|:---------:|:-------------:|:--:|
+| **Stack Overflow** | `serkan` | [JOIN →](https://stackoverflow.com/users/20825947/serkan) |
+| **LeetCode** | `seko7` | [JOIN →](https://leetcode.com/seko7) |
+| **HackerRank** | `sekyouone` | [JOIN →](https://www.hackerrank.com/sekyouone) |
+| **Kaggle** | `serkanakmak` | [JOIN →](https://kaggle.com/serkanakmak) |
+| **LinkedIn** | `serkanncakmak` | [JOIN →](https://linkedin.com/in/serkanncakmak) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/serkanncakmak">
+    <img src="assets/footer.svg" alt="Thanks for playing - insert coin to collaborate" width="100%"/>
+  </a>
+</div>
