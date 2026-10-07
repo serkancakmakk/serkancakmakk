@@ -114,13 +114,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=serkancakmakk&theme=synthwave&hide_border=true" />
 </div>
 
-<details>
-<summary><b>▶ ACTIVITY REPLAY (aç / kapat)</b></summary>
-<br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serkancakmakk&theme=synthwave&hide_border=true&bg_color=0d1117&color=ff00cc&line=7a00ff&point=00e5ff" />
+  <img src="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output/knight.svg" alt="Pixel knight slashing through contributions" width="100%"/>
 </div>
-</details>
 
 <br/>
 
