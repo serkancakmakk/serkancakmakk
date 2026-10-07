@@ -206,7 +206,7 @@ def build_duel():
 
     def bullets(prefix, shot_times, mx, my, target_x, direction):
         out = []
-        dx = target_x - mx
+        dx = (target_x - mx) * direction  # bullets live in a mirrored group for P2
         for i, s in enumerate(shot_times):
             n = f"{prefix}{i}"
             css.append(keyframes(f"bu{n}", [
