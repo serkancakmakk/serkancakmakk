@@ -1,0 +1,49 @@
+name: Pixel Arcade
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+# One move at a time, so moves never overwrite each other.
+concurrency:
+  group: pixel-arcade
+  cancel-in-progress: false
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'pixelgame:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Play the move
+        # The issue title and author are read from the event file by the script,
+        # never interpolated into a shell command.
+        run: python3 game/engine.py play
+
+      - name: Commit the new board
+        run: |
+          git config user.name "pixel-arcade[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add game/state.json game/board.svg README.md
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "pixel arcade: new move"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Reply to the player and close the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          number="$(cat "$RUNNER_TEMP/pixelgame_number.txt")"
+          gh issue comment "$number" --body-file "$RUNNER_TEMP/pixelgame_comment.md"
+          gh issue close "$number" --reason completed

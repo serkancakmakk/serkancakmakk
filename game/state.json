@@ -1,0 +1,40 @@
+{
+ "best_by": "",
+ "coins": [
+  [
+   3,
+   1
+  ],
+  [
+   10,
+   4
+  ],
+  [
+   15,
+   3
+  ]
+ ],
+ "flash": null,
+ "hearts": 3,
+ "high_score": 0,
+ "history": [],
+ "move": 0,
+ "player": [
+  1,
+  4
+ ],
+ "players": {},
+ "rounds": 0,
+ "score": 0,
+ "slimes": [
+  [
+   14,
+   1
+  ],
+  [
+   14,
+   7
+  ]
+ ],
+ "total_coins": 0
+}
