@@ -17,13 +17,24 @@
  "flash": null,
  "hearts": 3,
  "high_score": 0,
- "history": [],
- "move": 0,
+ "history": [
+  {
+   "dir": "right",
+   "note": "",
+   "user": "serkancakmakk"
+  }
+ ],
+ "move": 1,
  "player": [
-  1,
+  2,
   4
  ],
- "players": {},
+ "players": {
+  "serkancakmakk": {
+   "coins": 0,
+   "moves": 1
+  }
+ },
  "rounds": 0,
  "score": 0,
  "slimes": [
@@ -32,7 +43,7 @@
    1
   ],
   [
-   14,
+   13,
    7
   ]
  ],
