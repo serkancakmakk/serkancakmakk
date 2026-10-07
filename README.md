@@ -25,6 +25,14 @@
 <br/>
 
 <div align="center">
+  <img src="assets/t_versus.svg" alt="VERSUS MODE" width="100%"/>
+  <br/>
+  <img src="assets/duel.svg" alt="Two pixel knights in an AK-47 shootout" width="660"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="assets/t_skills.svg" alt="SKILL LEVELS" width="100%"/>
   <br/>
   <img src="assets/skills.svg" alt="Skill levels" width="600"/>
