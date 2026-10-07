@@ -24,53 +24,6 @@
 
 <br/>
 
-<!--GAME:START-->
-<div align="center">
-
-<img src="assets/t_game.svg" alt="PIXEL ARCADE" width="100%"/>
-
-<sub>Collect <b>coins</b>, dodge the <b>slimes</b>. Everyone who visits plays the <b>same</b> game together.</sub>
-
-<img src="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/main/game/board.svg?m=2" width="640" alt="Pixel Arcade board"/>
-
-<a href="https://github.com/serkancakmakk/serkancakmakk/issues/new?title=pixelgame%3A%20up&body=Just%20press%20%22Submit%20new%20issue%22.%20Your%20move%20is%20played%20automatically%20%28takes%20about%2030%20seconds%29."><img src="assets/btn_up.svg" width="72" alt="UP"/></a>
-<br/>
-<a href="https://github.com/serkancakmakk/serkancakmakk/issues/new?title=pixelgame%3A%20left&body=Just%20press%20%22Submit%20new%20issue%22.%20Your%20move%20is%20played%20automatically%20%28takes%20about%2030%20seconds%29."><img src="assets/btn_left.svg" width="72" alt="LEFT"/></a>
-<a href="https://github.com/serkancakmakk/serkancakmakk/issues/new?title=pixelgame%3A%20down&body=Just%20press%20%22Submit%20new%20issue%22.%20Your%20move%20is%20played%20automatically%20%28takes%20about%2030%20seconds%29."><img src="assets/btn_down.svg" width="72" alt="DOWN"/></a>
-<a href="https://github.com/serkancakmakk/serkancakmakk/issues/new?title=pixelgame%3A%20right&body=Just%20press%20%22Submit%20new%20issue%22.%20Your%20move%20is%20played%20automatically%20%28takes%20about%2030%20seconds%29."><img src="assets/btn_right.svg" width="72" alt="RIGHT"/></a>
-
-<sub>Click an arrow, then press <b>Submit new issue</b> (GitHub login needed). The board updates in about 30 seconds, refresh the page.</sub>
-
-<sub>MOVES <b>2</b> · ROUNDS <b>0</b> · COINS <b>0</b> · BEST <b>0</b></sub>
-
-</div>
-
-<div align="center">
-
-| # | PLAYER | COINS | MOVES |
-|:-:|:------:|:-----:|:-----:|
-| 1 | [@serkancakmakk](https://github.com/serkancakmakk) | 0 | 2 |
-
-</div>
-
-<details>
-<summary><b>▶ LAST MOVES</b></summary>
-
-<div align="center">
-
-| PLAYER | MOVE | RESULT |
-|:------:|:----:|:------:|
-| [@serkancakmakk](https://github.com/serkancakmakk) | UP | - |
-| [@serkancakmakk](https://github.com/serkancakmakk) | RIGHT | - |
-
-</div>
-
-</details>
-
-<!--GAME:END-->
-
-<br/>
-
 <div align="center">
   <img src="assets/t_skills.svg" alt="SKILL LEVELS" width="100%"/>
   <br/>
