@@ -22,28 +22,33 @@
    "dir": "right",
    "note": "",
    "user": "serkancakmakk"
+  },
+  {
+   "dir": "up",
+   "note": "",
+   "user": "serkancakmakk"
   }
  ],
- "move": 1,
+ "move": 2,
  "player": [
   2,
-  4
+  3
  ],
  "players": {
   "serkancakmakk": {
    "coins": 0,
-   "moves": 1
+   "moves": 2
   }
  },
  "rounds": 0,
  "score": 0,
  "slimes": [
   [
-   14,
+   13,
    1
   ],
   [
-   13,
+   12,
    7
   ]
  ],
