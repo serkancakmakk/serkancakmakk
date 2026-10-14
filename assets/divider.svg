@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="24" viewBox="0 0 840 24">
+  <style>
+    :root{--line:#d0d7de;--accent:#0969da}
+    @media (prefers-color-scheme: dark){:root{--line:#30363d;--accent:#4493f8}}
+  </style>
+  <line x1="40" y1="12" x2="800" y2="12" stroke="var(--line)"/>
+  <rect x="414" y="8" width="12" height="8" rx="2" fill="var(--accent)"/>
+</svg>

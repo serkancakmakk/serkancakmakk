@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220">
+  <style>
+    :root{--fg:#1f2328;--muted:#656d76;--line:#d0d7de;--accent:#0969da}
+    @media (prefers-color-scheme: dark){:root{--fg:#e6edf3;--muted:#8d96a0;--line:#30363d;--accent:#4493f8}}
+    .name{font:600 44px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:var(--fg);letter-spacing:-1px}
+    .role{font:400 17px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:var(--muted)}
+    .tag{font:400 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:var(--muted)}
+    .acc{fill:var(--accent)}
+    .ln{stroke:var(--line);stroke-width:1}
+    .cur{fill:var(--accent);animation:b 1.1s steps(1) infinite}
+    @keyframes b{50%{opacity:0}}
+  </style>
+  <g><text x="40" y="92" class="name">Serkan Çakmak</text></g>
+  <g>
+    <text x="42" y="128" class="role"><tspan class="acc">~/</tspan> software developer<tspan dx="2"> </tspan></text>
+    <rect x="270" y="114" width="9" height="18" class="cur"/>
+  </g>
+  <line x1="40" y1="164" x2="800" y2="164" class="ln"/>
+  <g>
+    <text x="40" y="194" class="tag">.NET · Angular · Python · SQL</text>
+    <text x="800" y="194" class="tag" text-anchor="end">github.com/serkancakmakk</text>
+  </g>
+</svg>
