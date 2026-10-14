@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="Serkan Çakmak — software developer" width="100%"/>
+<img src="assets/header.svg?v=2" alt="Serkan Çakmak — software developer" width="100%"/>
 
 <p>
   <a href="https://linkedin.com/in/serkanncakmak"><img src="https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white"/></a>
