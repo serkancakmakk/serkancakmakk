@@ -18,6 +18,11 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output-3d/profile-pink-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output-3d/profile-pink.svg" alt="3D contribution graph" width="100%"/>
+</picture>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=serkancakmakk&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8d96a0&icon_color=4493f8&title_color=e6edf3&hide_rank=true"/>
