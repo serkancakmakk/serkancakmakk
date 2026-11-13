@@ -19,8 +19,8 @@
 <img src="assets/divider.svg" width="100%"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output-3d/profile-pink-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output-3d/profile-pink.svg" alt="3D contribution graph" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output-3d/profile-green-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/serkancakmakk/serkancakmakk/output-3d/profile-green.svg" alt="3D contribution graph" width="100%"/>
 </picture>
 
 <p align="center">

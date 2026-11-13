@@ -1,24 +1,24 @@
 [
   {
     "type": "normal",
-    "fileName": "profile-pink.svg",
+    "fileName": "profile-green.svg",
     "backgroundColor": "#ffffff",
     "foregroundColor": "#1f2328",
-    "strongColor": "#c2187a",
+    "strongColor": "#216e39",
     "weakColor": "#8c959f",
-    "radarColor": "#e0559f",
+    "radarColor": "#40c463",
     "growingAnimation": true,
-    "contribColors": ["#efefef", "#f2c4de", "#e795c6", "#df5aa3", "#c2187a"]
+    "contribColors": ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"]
   },
   {
     "type": "normal",
-    "fileName": "profile-pink-dark.svg",
+    "fileName": "profile-green-dark.svg",
     "backgroundColor": "#0d1117",
     "foregroundColor": "#e6edf3",
-    "strongColor": "#f778ba",
+    "strongColor": "#39d353",
     "weakColor": "#8d96a0",
-    "radarColor": "#f778ba",
+    "radarColor": "#26a641",
     "growingAnimation": true,
-    "contribColors": ["#21262d", "#5c2a47", "#953d6f", "#d0569b", "#f778ba"]
+    "contribColors": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
   }
 ]
